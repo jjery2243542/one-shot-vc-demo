@@ -83,16 +83,16 @@ This is the demo page for the paper "One-shot Voice Conversion by Separating Spe
 <audio src="res/demo/p278_p310_m_f/p278_047_p310_324_con.wav" controls preload></audio>
 - - -
 #### *Source*
-<audio src="res/demo/p278_p310_m_f/p278_053_p310_141_src.wav" controls preload></audio>
+<audio src="res/demo/p278_p310_M_F/p278_053_p310_141_src.wav" controls preload></audio>
 #### *Target*
-<audio src="res/demo/p278_p310_m_f/p278_053_p310_141_tar.wav" controls preload></audio>
+<audio src="res/demo/p278_p310_M_F/p278_053_p310_141_tar.wav" controls preload></audio>
 #### *Converted*
-<audio src="res/demo/p278_p310_m_f/p278_053_p310_141_con.wav" controls preload></audio>
+<audio src="res/demo/p278_p310_M_F/p278_053_p310_141_con.wav" controls preload></audio>
 - - -
 #### *Source*
-<audio src="res/demo/p278_p310_m_f/p278_101_p310_343_src.wav" controls preload></audio>
+<audio src="res/demo/p278_p310_M_F/p278_101_p310_343_src.wav" controls preload></audio>
 #### *Target*
-<audio src="res/demo/p278_p310_m_f/p278_101_p310_343_tar.wav" controls preload></audio>
+<audio src="res/demo/p278_p310_M_F/p278_101_p310_343_tar.wav" controls preload></audio>
 #### *Converted*
-<audio src="res/demo/p278_p310_m_f/p278_101_p310_343_con.wav" controls preload></audio>
+<audio src="res/demo/p278_p310_M_F/p278_101_p310_343_con.wav" controls preload></audio>
 - - -
