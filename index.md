@@ -87,7 +87,7 @@ In addition to the performance measurement, we also demonstrate that this model 
 #### *Target*
 <audio src="res/demo/p278_p310_M_F/p278_047_p310_324_tar.wav" controls preload></audio>
 #### *Converted*
-<audio src="res/demo/p278_p310_m_f/p278_047_p310_324_con.wav" controls preload></audio>
+<audio src="res/demo/p278_p310_M_F/p278_047_p310_324_con.wav" controls preload></audio>
 - - -
 #### *Source*
 <audio src="res/demo/p278_p310_M_F/p278_053_p310_141_src.wav" controls preload></audio>
